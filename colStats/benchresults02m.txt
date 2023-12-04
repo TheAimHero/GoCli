@@ -1,0 +1,7 @@
+goos: linux
+goarch: amd64
+pkg: colStats
+cpu: 12th Gen Intel(R) Core(TM) i7-12700H
+BenchmarkRun-20    	      10	 140124384 ns/op	215035239 B/op	 2529366 allocs/op
+PASS
+ok  	colStats	1.632s
